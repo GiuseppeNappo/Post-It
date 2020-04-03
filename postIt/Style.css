@@ -1,0 +1,29 @@
+body{
+    background-color:#ecf0f1;
+    overflow:hidden;
+
+}
+.topBar{
+    float:left;
+    background-color:#f39c12;
+    margin-right: 10px;
+    margin-bottom:10px
+}
+.form{
+    margin-top:40px;
+    width:200px;
+    height:160px;
+    background-color:#f1c40f;
+}
+.textAria{
+    border-color:red;
+    width:180px;
+    height:140px;
+    margin:10px;
+    font-family: 'Lato', sans-serif;
+    overflow:hide;
+}
+.textAria:focus{
+    outline: 0;
+}
+
